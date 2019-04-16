@@ -4,8 +4,7 @@
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-   <link rel="stylesheet" href="<?= base_url(); ?>/assets/css/styleFooter.css">
-   <title>Footer</title>
+   <link rel="stylesheet" href="<?= base_url(); ?>/assets/css/styleFooterHome.css">
  </head>
  <body>
      <!-- Footer -->
@@ -25,16 +24,16 @@
 
            <ul class="list-unstyled">
              <li>
-               <a href="#!">Features</a>
+               <a href="<?= base_url(); ?>">Features</a>
              </li>
              <li>
-               <a href="#!">About Splice Studio</a>
+               <a href="<?= base_url(); ?>">About Splice Studio</a>
              </li>
              <li>
-               <a href="#!">Managing Your Production Library</a>
+               <a href="<?= base_url(); ?>">Managing Your Production Library</a>
              </li>
              <li>
-               <a href="#!">Collaborating with Baewatch</a>
+               <a href="<?= base_url(); ?>">Collaborating with Baewatch</a>
              </li>
            </ul>
 
@@ -51,22 +50,22 @@
 
            <ul class="list-unstyled">
              <li>
-               <a href="#!">Ableton Live Projects</a>
+               <a href="<?= base_url(); ?>">Ableton Live Projects</a>
              </li>
              <li>
-               <a href="#!">FL Studio Projects</a>
+               <a href="<?= base_url(); ?>">FL Studio Projects</a>
              </li>
              <li>
-               <a href="#!">Logic Pro X Projects</a>
+               <a href="<?= base_url(); ?>">Logic Pro X Projects</a>
              </li>
              <li>
-               <a href="#!">Garageband Projects</a>
+               <a href="<?= base_url(); ?>">Garageband Projects</a>
              </li>
              <li>
-               <a href="#!">Remix Contests</a>
+               <a href="<?= base_url(); ?>">Remix Contests</a>
              </li>
              <li>
-               <a href="#!">Tiesto's Secrets</a>
+               <a href="<?= base_url(); ?>">Tiesto's Secrets</a>
              </li>
            </ul>
 
@@ -83,19 +82,19 @@
 
            <ul class="list-unstyled">
              <li>
-               <a href="#!">Features</a>
+               <a href="<?= base_url(); ?>">Features</a>
              </li>
              <li>
-               <a href="#!">Catalog</a>
+               <a href="<?= base_url(); ?>">Catalog</a>
              </li>
              <li>
-               <a href="#!">How Jauz Uses Sounds</a>
+               <a href="<?= base_url(); ?>">How Jauz Uses Sounds</a>
              </li>
              <li>
-               <a href="#!">deadmau5's Chimaera</a>
+               <a href="<?= base_url(); ?>">deadmau5's Chimaera</a>
              </li>
              <li>
-               <a href="#!">KSHMR Vol. 2</a>
+               <a href="<?= base_url(); ?>">KSHMR Vol. 2</a>
              </li>
            </ul>
 
@@ -112,19 +111,19 @@
 
            <ul class="list-unstyled">
              <li>
-               <a href="#!">Top VSTs</a>
+               <a href="<?= base_url(); ?>">Top VSTs</a>
              </li>
              <li>
-               <a href="#!">Serum</a>
+               <a href="<?= base_url(); ?>">Serum</a>
              </li>
              <li>
-               <a href="#!">Rent to Own</a>
+               <a href="<?= base_url(); ?>">Rent to Own</a>
              </li>
              <li>
-               <a href="#!">Free Plugins</a>
+               <a href="<?= base_url(); ?>">Free Plugins</a>
              </li>
              <li>
-               <a href="#!">Top Manufacturers</a>
+               <a href="<?= base_url(); ?>">Top Manufacturers</a>
              </li>
            </ul>
 
@@ -139,13 +138,13 @@
 
            <ul class="list-unstyled">
              <li>
-               <a href="#!">Create Your Own Beat</a>
+               <a href="<?= base_url(); ?>">Create Your Own Beat</a>
              </li>
              <li>
-               <a href="#!">Wakapella</a>
+               <a href="<?= base_url(); ?>">Wakapella</a>
              </li>
              <li>
-               <a href="#!">Just Blaze</a>
+               <a href="<?= base_url(); ?>">Just Blaze</a>
              </li>
            </ul>
 
@@ -160,16 +159,16 @@
 
            <ul class="list-unstyled">
              <li>
-               <a href="#!">Latest Posts</a>
+               <a href="<?= base_url(); ?>">Latest Posts</a>
              </li>
              <li>
-               <a href="#!">Using Soundtoys Decapitator</a>
+               <a href="<?= base_url(); ?>">Using Soundtoys Decapitator</a>
              </li>
              <li>
-               <a href="#!">JMastering 101</a>
+               <a href="<?= base_url(); ?>">JMastering 101</a>
              </li>
              <li>
-               <a href="#!">Producing Future Beats</a>
+               <a href="<?= base_url(); ?>">Producing Future Beats</a>
              </li>
            </ul>
 
@@ -186,11 +185,11 @@
      <div class="copyRight">© 2019 Splice.com All Rights Reserved:
      </br>
        <span>
-         <a href="#">Terms of Use</a>
-         <a href="#">Provacy Policy</a>
-         <a href="#">Jobs</a>
-         <a href="#">Contact</a>
-         <a href="#">Help</a>
+         <a href="<?= base_url(); ?>">Terms of Use</a>
+         <a href="<?= base_url(); ?>">Provacy Policy</a>
+         <a href="<?= base_url(); ?>">Jobs</a>
+         <a href="<?= base_url(); ?>">Contact</a>
+         <a href="<?= base_url(); ?>">Help</a>
        </span>
      </div>
      <!-- Copyright -->

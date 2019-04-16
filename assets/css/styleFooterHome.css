@@ -1,0 +1,32 @@
+.page-footer {
+  font-family: Splice-Sans,Avenir,Arial,Helvetica,sans-serif;
+  font-size: .875rem;
+  font-weight: 500;
+  background-color: #131313;
+}
+
+.container{
+  padding-top: 40px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+}
+
+h5{
+  color: white;
+}
+
+a{
+   cursor: pointer;
+   color: #acacac;
+}
+a:hover{
+  text-decoration: none;
+  color: white;
+}
+
+.copyRight{
+  text-align: center;
+  color: #acacac;
+  padding-bottom: 20px;
+}
