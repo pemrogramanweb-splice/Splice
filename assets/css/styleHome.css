@@ -8,13 +8,11 @@ html{
 
 .btnSignup{
   border-radius: 50px;
+  border-color: white;
   height: 35px;
-  width: 85px;
+  width: 100px;
 }
 
-.btnSignup {
-  color: black;
-}
 .nav__item{
     flex-grow: 0;
     flex-shrink: 1;
@@ -23,6 +21,10 @@ html{
     padding-top: 1.25em;
     padding-bottom: 1.25em;
     color:#acacac;
+}
+
+a.nav__item:hover{
+  color: white;
 }
 .navbar{
     display: flex;

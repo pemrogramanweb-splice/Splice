@@ -30,7 +30,7 @@
     </div>
     <div class="nav justify-content-end" >
       <div class="navbar-nav">
-        <a class="nav-item nav-link" href="#">Log in</a>
+        <a class="nav-item nav-link" href="#" style="margin-right:15px;">Log in</a>
         <button class="btnSignup" type="button" name="SignUp">
           <a href="#" style="color:black;">SignUp</a>
         </button>
